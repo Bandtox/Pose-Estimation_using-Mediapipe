@@ -24,12 +24,3 @@ The project is organized as follows:
 2.Run media.py to perform pose estimation on static images:
   ```bash
   python media.py
-
-3.Run video.py to perform real-time pose estimation on videos:
-  ```bash
-  python video.py
-
-## Dependencies
-Ensure you have the necessary dependencies installed, such as Python, OpenCV, and MediaPipe. 
-
-pip install opencv-python mediapipe
