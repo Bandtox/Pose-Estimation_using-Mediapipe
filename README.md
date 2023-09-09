@@ -29,6 +29,6 @@ The project is organized as follows:
    python video.py
 
 ## Dependencies
-    ```bash
-    pip install opencv-python mediapipe
+  ```bash
+  pip install opencv-python mediapipe
 
