@@ -21,6 +21,6 @@ The project is organized as follows:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/pose-estimation-mediapipe.git
-2.Run media.py to perform pose estimation on static images:
+2. Run media.py to perform pose estimation on static images:
   ```bash
   python media.py
