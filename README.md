@@ -22,5 +22,13 @@ The project is organized as follows:
    ```bash
    git clone https://github.com/yourusername/pose-estimation-mediapipe.git
 2. Run media.py to perform pose estimation on static images:
+   ```bash
+   python media.py
+3. Run video.py to perform real-time pose estimation on videos:
+   ```bash
+   python video.py
+
+## Dependencies
   ```bash
-  python media.py
+  pip install opencv-python mediapipe
+
